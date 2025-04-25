@@ -14,6 +14,33 @@
 
 ## Project Overview 
 The Movie Rating Prediction project involves analyzing a dataset containing information about Indian movies. The dataset includes details like movie name, year, duration, genre, rating, votes, director, and three main actors. The data will be used to build a predictive model for movie ratings and extract valuable insights from the movie industry.
+
+## 💻 Technologies Used
+
+- Python 3.11  
+- Pandas  
+- NumPy  
+- Matplotlib & Seaborn (for data visualization)  
+- Scikit-learn (for model building)  
+- Jupyter Notebook
+
+---
+
+## 🚀 How to Run This Project
+
+1. Clone the repo or download ZIP  
+2. Install required libraries:
+   ```bash
+   pip install pandas matplotlib seaborn scikit-learn notebook
+   ```
+3. Start Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+4. Open `CODSOFT_DS02_Movie-Rating-Prediction-with-Python.ipynb`  
+5. Run all cells step-by-step  
+6. View predictions & charts! 🎯
+
 ## Business Understanding
 The film industry relies on understanding the factors that influence movie success. Accurately predicting movie ratings can aid in decision-making, such as choosing the right actors, directors, and genres, as well as determining marketing strategies
 ## Objectives
@@ -66,8 +93,5 @@ In conclusion, this project provides valuable insights and a predictive model fo
 - Real-time Data: Implement real-time data updates to keep the model current with the latest trends
 
 ## Author
-- Marwa Osman
-- marwaosman9975@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
-- [GitHub](https://github.com/marwa9975)
 
+- Dhanyakumar Mane
